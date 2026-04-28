@@ -68,7 +68,7 @@ surfpe/            → Plataforma de gestão               [TS · React]
 
 ```
 github   →  github.com/codebyafonso
-email    →  subscriptions@tds.company
+email    →  afonsoestevao04@gmail.com
 ```
 
 ```bash
