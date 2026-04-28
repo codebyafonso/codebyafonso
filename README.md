@@ -15,7 +15,6 @@
 name    →  Afonso Estevão Luna
 role    →  Developer
 about   →  Construo ferramentas que resolvem problemas reais
-style   →  Back-end por natureza · Automação por obcessão · Full-stack quando necessário
 ```
 ```bash
 [codebyafonso@github ~]$ cat stack.txt
