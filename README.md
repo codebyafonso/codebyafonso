@@ -21,12 +21,13 @@ about   →  Construo ferramentas que resolvem problemas reais
 ```
 
 ```
-Languages   →  TypeScript · Python · JavaScript
-Runtime     →  Node.js · Express · NestJS
-Database    →  MongoDB · PostgreSQL
-Frontend    →  React · Tailwind CSS
-Infra       →  Docker · Linux · Nginx
-Tools       →  Git · REST APIs · WebSockets
+Languages   →  TypeScript · Python · JavaScript · Kotlin
+Frontend    →  React · Next.js · Vite · Tailwind CSS · shadcn/ui
+Backend     →  Node.js · Express · NestJS · FastAPI · Flask
+Mobile      →  Android (Jetpack Compose) · Android TV · React Native
+Database    →  MongoDB · PostgreSQL · Supabase · SQLite
+Infra       →  Docker · Linux · Nginx · Vercel · GitHub Actions
+Tools       →  Git · REST APIs · WebSockets · JWT · Vitest
 ```
 
 ```bash
@@ -34,11 +35,14 @@ Tools       →  Git · REST APIs · WebSockets
 ```
 
 ```
-motosync/          → Rastreador de manutenção de motos   [TS · Node · MongoDB]
-pppoeye/           → Dashboard de monitoramento PPPoE    [Python · MikroTik]
-oltEye/            → Monitor de OLTs/ONUs via Telnet     [Python · Telnet]
-supportflow/       → Sistema de suporte N1               [JS · Node]
-surfpe/            → Plataforma de gestão               [TS · React]
+pppoeye/           → Monitoramento PPPoE + app Android    [Python · Kotlin · MikroTik]
+neostreaming/      → Player IPTV para celular e TV        [Kotlin · Compose · ExoPlayer]
+orbit/             → Painel de projetos da Vercel         [Next.js · TS · MongoDB]
+wifi-pix/          → Hotspot Wi-Fi pago via Pix           [Node · MikroTik · Pix]
+supportflow/       → Suporte N1: Jira + Google Chat       [Node · MongoDB · IA]
+oltEye/            → Monitor de OLTs/ONUs via Telnet      [Python · Telnet]
+codeshot/          → Screenshots prontos para IA          [Python · Windows]
+motosync/          → Rastreador de manutenção de motos    [TS · Node · MongoDB]
 ```
 
 ```bash
@@ -51,6 +55,18 @@ surfpe/            → Plataforma de gestão               [TS · React]
 →  APIs REST robustas
 →  bots e integrações (Telegram · WhatsApp)
 →  análise de dados com Python
+```
+
+```bash
+[codebyafonso@github ~]$ cat learning.txt
+```
+
+```
+→  Kotlin · Jetpack Compose · Media3/ExoPlayer · Hilt · Room
+→  TanStack (Query · Router · Start)
+→  IA aplicada: LLMs · OpenRouter · agentes de código
+→  IoT com ESP32
+→  Go (Gin)
 ```
 
 ```bash
@@ -73,6 +89,12 @@ github   →  github.com/codebyafonso
 email    →  afonsoestevao04@gmail.com
 site     →  codebyafonso.github.io/portfolio
 ```
+
+<div align="center">
+
+[🌐 Portfólio](https://codebyafonso.github.io/portfolio/) · [GitHub](https://github.com/codebyafonso) · [Email](mailto:afonsoestevao04@gmail.com)
+
+</div>
 
 ```bash
 [codebyafonso@github ~]$ █
