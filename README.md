@@ -36,7 +36,7 @@ Tools       →  Git · REST APIs · WebSockets · JWT · Vitest
 
 ```
 pppoeye/           → Monitoramento PPPoE + app Android    [Python · Kotlin · MikroTik]
-neostreaming/      → Player IPTV para celular e TV        [Kotlin · Compose · ExoPlayer]
+tds-connect/       → Gestão de pessoas: férias e presença [React · Node · MongoDB]
 orbit/             → Painel de projetos da Vercel         [Next.js · TS · MongoDB]
 wifi-pix/          → Hotspot Wi-Fi pago via Pix           [Node · MikroTik · Pix]
 supportflow/       → Suporte N1: Jira + Google Chat       [Node · MongoDB · IA]
