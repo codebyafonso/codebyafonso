@@ -141,7 +141,7 @@ Hotspot Wi-Fi pago via Pix com MikroTik.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=codebyafonso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=codebyafonso&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyafonso&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=1E90FF&text_color=ffffff" />
 
 <br/>
@@ -156,7 +156,11 @@ Hotspot Wi-Fi pago via Pix com MikroTik.
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/codebyafonso/codebyafonso/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebyafonso/codebyafonso/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebyafonso/codebyafonso/output/github-contribution-grid-snake.svg" />
+  <img alt="cobrinha de contribuições" src="https://raw.githubusercontent.com/codebyafonso/codebyafonso/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
