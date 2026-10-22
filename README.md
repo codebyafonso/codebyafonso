@@ -55,16 +55,16 @@
 
 <div align="center">
 
-| Tecnologia            | Nível  | Uso          |
-|:----------------------|:------:|:-------------|
-| TypeScript            | ★★★★★ | principal    |
-| Python                | ★★★★★ | principal    |
-| Node.js               | ★★★★★ | principal    |
-| JavaScript            | ★★★★★ | principal    |
-| React · Next.js       | ★★★★☆ | experiência  |
-| Docker · Linux        | ★★★★☆ | experiência  |
-| MongoDB · PostgreSQL  | ★★★★☆ | experiência  |
-| Kotlin · Compose      | ★★★☆☆ | aprendendo   |
+| Tecnologia            | Nível  | Domínio       |
+|:----------------------|:------:|:--------------|
+| TypeScript            | ★★★★★ | Avançado      |
+| Python                | ★★★★★ | Avançado      |
+| Node.js               | ★★★★★ | Avançado      |
+| JavaScript            | ★★★★★ | Avançado      |
+| React · Next.js       | ★★★★☆ | Intermediário |
+| Docker · Linux        | ★★★★☆ | Intermediário |
+| MongoDB · PostgreSQL  | ★★★★☆ | Intermediário |
+| Kotlin · Compose      | ★★★☆☆ | Básico        |
 
 </div>
 
