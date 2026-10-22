@@ -53,16 +53,20 @@
 
 ## `⌁ MEU STACK`
 
-```text
-TypeScript   ███████████████████░░   principal
-Python       █████████████████░░░░   principal
-JavaScript   ████████████████░░░░░   experiência
-Kotlin       ████████████░░░░░░░░░   experiência
-Node.js      ██████████████████░░░   principal
-React/Next   █████████████████░░░░   experiência
-MongoDB      ███████████████░░░░░░   experiência
-Docker/Linux ██████████████░░░░░░░   experiência
-```
+<div align="center">
+
+| Tecnologia            | Nível  | Uso          |
+|:----------------------|:------:|:-------------|
+| TypeScript            | ★★★★★ | principal    |
+| Python                | ★★★★★ | principal    |
+| Node.js               | ★★★★★ | principal    |
+| JavaScript            | ★★★★★ | principal    |
+| React · Next.js       | ★★★★☆ | experiência  |
+| Docker · Linux        | ★★★★☆ | experiência  |
+| MongoDB · PostgreSQL  | ★★★★☆ | experiência  |
+| Kotlin · Compose      | ★★★☆☆ | aprendendo   |
+
+</div>
 
 ---
 
